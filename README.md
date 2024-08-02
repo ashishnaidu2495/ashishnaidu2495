@@ -1,18 +1,13 @@
-### Hi there 👋
+ Hi there 👋I'm Ashish Naidu
 
-<!--
-**ashishnaidu2495/ashishnaidu2495** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Devolper Enthusiast
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on flask
+- 🔭 I’m currently working on Django ,Datascience
 - 🌱 I’m currently learning django
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me:https://www.linkedin.com/in/ashish-pilla-73b541285
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ -👨‍💻 my projects are available at https://github.com/ashishnaidu2495
+- 📫 How to reach me:ashishnaidupilla@gmail.com
 -->
+Connect with me:
+https://www.linkedin.com/in/pavan-kumar-thandrangi-2g69/ https://www.codechef.com/users/pavan2k3
